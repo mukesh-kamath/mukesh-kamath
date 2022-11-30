@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukesh-kamath
 - 👀 I’m interested in soft skills training, etiquette, economics and poverty, software
-- 🌱 I’m currently learning github use, GUI testing
-- 💞️ I’m looking to collaborate on visualizations, javascript(chart.js, d3.js)
+- 🌱 I’m currently learning Message Queues, GUI creation etc
+- 💞️ I’m looking to collaborate on visualizations
 - 📫 How to reach me +91-90 196 77733
 
 <!---
